@@ -1,2 +1,2 @@
 # HariboRecognition
-Project for Vision Systems and Visualization on Poznań Univercity of Technology
+Project for Sensorics and Vision Systems on Poznań Univercity of Technology
