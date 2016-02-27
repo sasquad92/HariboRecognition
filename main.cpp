@@ -337,6 +337,12 @@ bool ContoursDetection(Mat &src, vector<vector<Point>> &contours)
 
 		WhatShape(contours);
 
+		if (contours.size() < 4)
+		{
+			isSuccess = false;
+			return isSuccess;
+		}
+
 		//http://stackoverflow.com/questions/13495207/opencv-c-sorting-contours-by-their-contourarea
 		sort( contours.begin(), contours.end(), []( const vector<Point>& c1, const vector<Point>& c2 )
 		{
