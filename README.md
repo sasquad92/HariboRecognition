@@ -5,7 +5,7 @@ Objective of the project is to count varius colors Haribo Bears visable on one s
 
 Scheme of catalogs structure:
 
- -------- workspace ----------------------------------------------------|
+ |------- workspace ----------------------------------------------------|
  |  ----- nazwy_zdjec -----   ----- zdjecia -----   ----- wyniki -----  |
  |  |                     |   |                 |   |                |  |
  |  |   nazwy_zdjec.txt   |   |  < jpg files >  |   |  result *.txt  |  |
