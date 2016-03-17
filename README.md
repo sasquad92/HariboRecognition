@@ -4,15 +4,14 @@
 >Objective of the project is to count varius colors Haribo Bears visable on one sceen located within the markers area.
 
 ##Scheme of catalogs structure:
->Please Raw this file for better view
 
- +------- workspace ----------------------------------------------------+
- |  +---- nazwy_zdjec ----+   +---- zdjecia ----+   +---- wyniki ----+  |
- |  |                     |   |                 |   |                |  |
- |  |   nazwy_zdjec.txt   |   |  < jpg files >  |   |  result *.txt  |  |
- |  |                     |   |                 |   |                |  |
- |  +---------------------+   +-----------------+   +----------------+  |
- |                                                                      |
- | here should be *.exe file                                            |
- |                                                                      |
- +----------------------------------------------------------------------+
+             +------- workspace ----------------------------------------------------+
+             |  +---- nazwy_zdjec ----+   +---- zdjecia ----+   +---- wyniki ----+  |
+             |  |                     |   |                 |   |                |  |
+             |  |   nazwy_zdjec.txt   |   |  < jpg files >  |   |  result *.txt  |  |
+             |  |                     |   |                 |   |                |  |
+             |  +---------------------+   +-----------------+   +----------------+  |
+             |                                                                      |
+             | here should be *.exe file                                            |
+             |                                                                      |
+             +----------------------------------------------------------------------+
