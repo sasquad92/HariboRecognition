@@ -1,5 +1,5 @@
 # HariboRecognition
->Project for Sensorics and Vision Systems on Poznań Univercity of Technology
+>Project for Sensorics and Vision Systems on Poznań University of Technology
 
 >Objective of the project is to count varius colors Haribo Bears visable on one sceen located within the markers area.
 
